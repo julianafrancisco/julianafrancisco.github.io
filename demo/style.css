@@ -1,2 +1,29 @@
-body {padding:0; margin:0; background: #88ccff; font-family: "Comic Sans MS"; }
-#project1 {width=20%;}
+body {
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-left: 40px;
+    margin:0; 
+    background-color: azure; 
+    font-family: "Tahoma"; 
+}
+
+#project1 {
+    width=20%;
+}
+#one{
+    color:darkslateblue;
+    font-size: 30px;
+    text-align: center;
+}
+#two{
+    color:blueviolet;
+    font-size: 15px;
+    text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
